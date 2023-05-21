@@ -1,4 +1,4 @@
-# ecommerce_app
+# JustRedApp
 
 A new Flutter project.
 
